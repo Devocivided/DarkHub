@@ -1,2 +1,2 @@
 # DarkHub
-Dark Hub is cool uwu
+Dark Hub is cool
